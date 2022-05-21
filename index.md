@@ -1,20 +1,20 @@
 ## Welcome to my portfolio!
 
-# Roblox Builder and Designer
+### Roblox Builder and Designer
 
-Hey, I am MrAhmalo a 14 year old guy from Germany!
+**Hey, I am MrAhmalo a 14 year old guy from Germany!
 I started to learn about Roblox Studio, Scripting, Building, Modelling and that stuff 2 Years ago.
 I have lots of experience in Terrain and Designing (for example an GUI).
 
-And yeah I know my account says its created 1 year ago, but this is not my first account since I lost the data of my old one.
+**And yeah I know my account says its created 1 year ago, but this is not my first account since I lost the data of my old one.**
 
 
-Here are some links:  
+## Here are some links:  
 Roblox Profile: [klick](https://www.roblox.com/users/2462407905/profile)   
 Roblox Group: [klick](https://www.roblox.com/groups/10279185/Golegana)   
 Discord: Ahmalo#9338   
 
-Here are some examples of my work: 
+## Here are some examples of my work: 
 
 Terrain I made (with my own Tree Models):   
 ![Screenshot (117)](https://user-images.githubusercontent.com/98891212/169664192-b6304875-db52-450f-a73d-d485d1134c23.png)
