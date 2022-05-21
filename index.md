@@ -12,8 +12,8 @@ I have lots of experience in Terrain and Designing (for example an GUI).**
 ## Here are some links:  
 Roblox Profile: [klick](https://www.roblox.com/users/2462407905/profile)   
 Roblox Group: [klick](https://www.roblox.com/groups/10279185/Golegana)
-Talent Hub Profile: [Roblox Talent Hub](https://talent.roblox.com/creators/2462407905)**
-Discord: Ahmalo#9338   
+Talent Hub Profile: [Roblox Talent Hub](https://talent.roblox.com/creators/2462407905)  
+Discord: Ahmalo#9338     
 
 ## Here are some examples of my work:
 
