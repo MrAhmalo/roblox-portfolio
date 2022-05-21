@@ -6,26 +6,24 @@ Hey, I am MrAhmalo a 14 year old guy from Germany!
 I started to learn about Roblox Studio, Scripting, Building, Modelling and that stuff 2 Years ago.
 I have lots of experience in Terrain and Designing (for example an GUI).
 
-And yeah I know my account says its created 1 year ago, but this is not my first account since i lost the data of my old one.
-
-Here are some links:
-Roblox Profile: [klick](https://www.roblox.com/users/2462407905/profile)
-Roblox Group: [klick](https://www.roblox.com/groups/10279185/Golegana)
-Discord: Ahmalo#9338
-
-Here are some examples of my work:
-
-Terrain I made (with my Tree Models):
-![Image](https://ibb.co/NF1CX7K)
-![Image](https://ibb.co/HKGKMy1)
-![Image](https://ibb.co/Y3DfMBb)
-
-Tree Blender view:
-![Image](https://ibb.co/SKzcqVd)
+And yeah I know my account says its created 1 year ago, but this is not my first account since I lost the data of my old one.
 
 
+Here are some links:  
+Roblox Profile: [klick](https://www.roblox.com/users/2462407905/profile)   
+Roblox Group: [klick](https://www.roblox.com/groups/10279185/Golegana)   
+Discord: Ahmalo#9338   
+
+Here are some examples of my work: 
+
+Terrain I made (with my Tree Models):   
+![Screenshot (117)](https://user-images.githubusercontent.com/98891212/169664192-b6304875-db52-450f-a73d-d485d1134c23.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/98891212/169664193-57ed04c2-6c32-4b94-89ea-2138a75e004f.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/98891212/169664194-8a0bd610-d2f0-49e8-bbb1-6581da8c9c10.png)
 
 
+Tree Blender view:  
+![Screenshot (120)](https://user-images.githubusercontent.com/98891212/169664214-3ad22384-0ef4-4bdf-8fb3-79e67206e875.png)
 
 
 
