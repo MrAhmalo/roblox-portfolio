@@ -50,4 +50,4 @@ Mobile compatible too:
 
 ### Want to hire me?  
 
-## **Than contact me via Discord (see links and my Tag above)**  
+## **Than contact me via Discord (DC Tag: Ahmalo#9338)**  
