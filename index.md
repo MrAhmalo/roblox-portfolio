@@ -45,7 +45,7 @@ Mobile compatible too:
 # - Creating and desining a GUI/UI  
 # - open/close scripts (no animating)  
 # - Mobile compatibility  
-# - Making awesome Terrain with water. waterfalls, custom trees and more  
+# - Making awesome Terrain with water, waterfalls, custom trees and more  
 # - custom Blender models (restricted to certain things)  
 
 ## Want to hire me?  
