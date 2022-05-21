@@ -28,8 +28,12 @@ Discord: Ahmalo#9338**
 
 # GUI  
 
-***Menus:***  
+***Menu:***  
 ![Main Menu](https://user-images.githubusercontent.com/98891212/169668543-138c386c-4c27-49df-b528-2ee4955a2023.png) 
+
+
+***Scrollable Inventory:***  
+![Inventory](https://user-images.githubusercontent.com/98891212/169670949-970cffac-d7e7-4515-8c2d-63d9be2e76ec.png) 
 
 
 ***Car Spawn GUI:***  
