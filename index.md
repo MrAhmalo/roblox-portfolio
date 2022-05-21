@@ -20,29 +20,29 @@ Discord: Ahmalo#9338
 # Terrain   
 
 Terrain I made (with my own Tree Models):      
-![Screenshot (117)](https://user-images.githubusercontent.com/98891212/169664192-b6304875-db52-450f-a73d-d485d1134c23.png)
-![Screenshot (118)](https://user-images.githubusercontent.com/98891212/169664193-57ed04c2-6c32-4b94-89ea-2138a75e004f.png)
-![Screenshot (119)](https://user-images.githubusercontent.com/98891212/169664194-8a0bd610-d2f0-49e8-bbb1-6581da8c9c10.png)
-
+![Forest with river terrain 1](https://user-images.githubusercontent.com/98891212/169668522-82428bd1-a82d-4373-8320-7025a49a2244.png) 
+![Forest with river terrain 2](https://user-images.githubusercontent.com/98891212/169668525-f501fe15-593b-42dc-973e-1fc506bd2f9a.png) 
+![Forest with river terrain 3](https://user-images.githubusercontent.com/98891212/169668528-bac64191-4e04-40b8-8d50-49dc0bb82905.png) 
 
 Tree Blender view:    
-![Screenshot 2022-05-21 200934](https://user-images.githubusercontent.com/98891212/169664270-8000b99b-a1e2-4574-bc53-630c8a7f40e7.png)  
-
+![Blender View tree](https://user-images.githubusercontent.com/98891212/169668536-1cdcce11-2d4f-4ee8-b1a1-72fe9a6d7901.png) 
 
 # GUI  
 
 Main Menu:  
-![Screenshot 2022-05-21 202301](https://user-images.githubusercontent.com/98891212/169664717-7fc39069-b985-4409-82d6-6da8b70cf9b8.png)   
+![Main Menu](https://user-images.githubusercontent.com/98891212/169668543-138c386c-4c27-49df-b528-2ee4955a2023.png) 
+
 
 Car Spawn GUI:  
-![Screenshot 2022-05-21 202839](https://user-images.githubusercontent.com/98891212/169664715-9731d042-59f0-4f5c-b17a-a529d61e911a.png)  
+![Car GUI](https://user-images.githubusercontent.com/98891212/169668546-066a76fe-f433-442f-b3a0-f0995d615813.png) 
+
 
 Mobile compatible too:  
-![Screenshot 2022-05-21 203013](https://user-images.githubusercontent.com/98891212/169665420-408993fe-3e0b-4fe0-bd10-4399abc503b1.png)  
+![Car GUI Mobile](https://user-images.githubusercontent.com/98891212/169668549-26b4dc14-73db-4a8a-a260-295dcb556b79.png) 
 
 ## What can I do for you?  
 
-- Creating and desining a GUI/UI  
+- Creating and designing a GUI/UI  
 - open/close scripts (no animating)  
 - Mobile compatibility  
 - Making awesome Terrain with water, waterfalls, custom trees and more  
