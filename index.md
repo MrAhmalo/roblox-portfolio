@@ -50,4 +50,4 @@ Discord: Ahmalo#9338**
 
 ### Want to hire me?  
 
-## **Than contact me via Discord (DC Tag: Ahmalo#9338)**  
+## **Than contact me via Discord (Tag: Ahmalo#9338)**  
