@@ -9,11 +9,11 @@ I have lots of experience in Terrain and designing (for example an GUI).**
 **And yeah I know my account profile says its created 1 year ago, but this is not my first account since I lost the data of my old one.**
 
 
-## Here are some links:  
-Roblox Profile: [klick](https://www.roblox.com/users/2462407905/profile)   
+## Links:  
+**Roblox Profile: [klick](https://www.roblox.com/users/2462407905/profile)   
 Roblox Group: [klick](https://www.roblox.com/groups/10279185/Golegana)   
 Talent Hub Profile: [klick](https://talent.roblox.com/creators/2462407905)     
-Discord: Ahmalo#9338     
+Discord: Ahmalo#9338**     
 
 ## Here are some examples of my work:
 
