@@ -48,6 +48,6 @@ Discord: Ahmalo#9338**
 - Making awesome Terrain with water, waterfalls, custom trees and more  
 - custom Blender models (restricted to certain things)  
 
-### Want to hire me?  
+### Want to hire me or have more questions?  
 
 ## **Than contact me via Discord (Tag: Ahmalo#9338)**  
