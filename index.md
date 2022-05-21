@@ -16,18 +16,14 @@ Discord: Ahmalo#9338
 
 Here are some examples of my work: 
 
-Terrain I made (with my Tree Models):   
+Terrain I made (with my own Tree Models):   
 ![Screenshot (117)](https://user-images.githubusercontent.com/98891212/169664192-b6304875-db52-450f-a73d-d485d1134c23.png)
 ![Screenshot (118)](https://user-images.githubusercontent.com/98891212/169664193-57ed04c2-6c32-4b94-89ea-2138a75e004f.png)
 ![Screenshot (119)](https://user-images.githubusercontent.com/98891212/169664194-8a0bd610-d2f0-49e8-bbb1-6581da8c9c10.png)
 
 
 Tree Blender view:  
-![Screenshot (120)](https://user-images.githubusercontent.com/98891212/169664214-3ad22384-0ef4-4bdf-8fb3-79e67206e875.png)
-
-
-
-
+![Screenshot 2022-05-21 200934](https://user-images.githubusercontent.com/98891212/169664270-8000b99b-a1e2-4574-bc53-630c8a7f40e7.png)
 
 
 
