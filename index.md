@@ -1,4 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio!
+
+# Roblox Builder and Designer
+
+Hey, I am MrAhmalo a 14 year old guy from Germany!
+I started to learn about Roblox Studio, Scripting, Building, Modelling and that stuff 2 Years ago.
+I have lots of experience in Terrain and Designing (for example an GUI).
+
+And yeah I know my account says its created 1 year ago, but this is not my first account since i lost the data of my old one.
+
+Here are some links:
+Roblox Profile: [klick](https://www.roblox.com/users/2462407905/profile)
+Roblox Group: [klick](https://www.roblox.com/groups/10279185/Golegana)
+Discord: Ahmalo#9338
+
+Here are some examples of my work:
+
+Terrain I made (with my Tree Models):
+![Image](https://ibb.co/NF1CX7K)
+![Image](https://ibb.co/HKGKMy1)
+![Image](https://ibb.co/Y3DfMBb)
+
+Tree Blender view:
+![Image](https://ibb.co/SKzcqVd)
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/MrAhmalo/roblox-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
