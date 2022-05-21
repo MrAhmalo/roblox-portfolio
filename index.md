@@ -4,7 +4,7 @@
 
 **Hey, I am MrAhmalo a 14 year old guy from Germany!
 I started to learn about Roblox Studio, Scripting, Building, Modelling and that stuff 2 Years ago.
-I have lots of experience in Terrain and Designing (for example an GUI).**
+I have lots of experience in Terrain and designing (for example an GUI).**
 
 **And yeah I know my account says its created 1 year ago, but this is not my first account since I lost the data of my old one.**
 
