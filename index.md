@@ -21,7 +21,6 @@ Discord: Ahmalo#9338**
 
 ***Terrain I made (with my own Tree Models):***      
 ![Forest with river terrain 1](https://user-images.githubusercontent.com/98891212/169668522-82428bd1-a82d-4373-8320-7025a49a2244.png) 
-![Forest with river terrain 2](https://user-images.githubusercontent.com/98891212/169668525-f501fe15-593b-42dc-973e-1fc506bd2f9a.png) 
 ![Forest with river terrain 3](https://user-images.githubusercontent.com/98891212/169668528-bac64191-4e04-40b8-8d50-49dc0bb82905.png) 
 
 ***Tree Blender view:***    
