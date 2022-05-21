@@ -43,8 +43,8 @@ Discord: Ahmalo#9338**
 ## What can I do for you?  
 
 - Creating and designing a GUI/UI  
+- Mobile compatibility for GUIs/UIs too 
 - open/close scripts (no animating)  
-- Mobile compatibility  
 - Making awesome Terrain with water, waterfalls, custom trees and more  
 - custom Blender models (restricted to certain things)  
 
