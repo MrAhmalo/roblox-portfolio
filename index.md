@@ -54,5 +54,5 @@ Discord: Ahmalo#9338**
 
 ### Want to hire me or have more questions?  
 
-## **Than contact me via Discord   
-(Tag: Ahmalo#9338)**    
+## **Than contact me via Discord**   
+## **(Tag: Ahmalo#9338)**    
