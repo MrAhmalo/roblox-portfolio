@@ -34,7 +34,10 @@ Discord: Ahmalo#9338**
 
 ***Scrollable Inventory:***  **For a example video look [here](https://youtu.be/ffAlzzUwK1I)**    
 ![Inventory](https://user-images.githubusercontent.com/98891212/169683598-e775384f-11be-4e19-b8a5-9ed9cb57f7e4.png)  
-  
+
+
+***Shop Menu:***  **For a example video look [here](https://youtu.be/32Ay9NerKCE)**
+![Shop Menu](https://user-images.githubusercontent.com/98891212/169686366-21e099da-dd6d-47bf-8bd7-c7a72edc896e.png)   
 
 
 ***Car Spawn GUI:***  
