@@ -2,7 +2,7 @@
 
 ### Roblox Builder and Designer
 
-**Hey, I am MrAhmalo a 14 year old guy from Germany!
+**Hey, I am MrAhmalo, a 14 year old guy from Germany!
 I started to learn about Roblox Studio, Scripting, Building, Modelling and that stuff 2 Years ago.
 I have lots of experience in Terrain and designing (for example an GUI).**
 
@@ -53,4 +53,5 @@ Discord: Ahmalo#9338**
 
 ### Want to hire me or have more questions?  
 
-## **Than contact me via Discord (Tag: Ahmalo#9338)**  
+## **Than contact me via Discord   
+(Tag: Ahmalo#9338)**    
