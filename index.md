@@ -32,12 +32,15 @@ Discord: Ahmalo#9338**
 ![Main Menu](https://user-images.githubusercontent.com/98891212/169668543-138c386c-4c27-49df-b528-2ee4955a2023.png) 
 
 
-***Scrollable Inventory:**
-<iframe width="740" height="315" src="https://www.youtube.com/embed/ffAlzzUwK1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Scrollable Inventory:**
+<iframe width="740" height="315" src="https://www.youtube.com/embed/ffAlzzUwK1I?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-***Shop Menu:**
-<iframe width="740" height="315" src="https://www.youtube.com/embed/32Ay9NerKCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Shop Menu:**
+<iframe width="740" height="315" src="https://www.youtube.com/embed/32Ay9NerKCE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Animated Inventory:**
+<iframe width="740" height="315" src="https://www.youtube.com/embed/73xjKzfr_WA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ***Car Spawn GUI:***  
@@ -51,7 +54,7 @@ Discord: Ahmalo#9338**
 
 - Creating and designing a GUI/UI  
 - Mobile compatibility for GUIs/UIs too 
-- open/close scripts (no animating)  
+- open/close scripts (also animating)  
 - Making awesome Terrain with water, waterfalls, custom trees and more  
 - custom Blender models (restricted to certain things)  
 
