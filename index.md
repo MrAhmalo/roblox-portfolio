@@ -33,11 +33,11 @@ Discord: Ahmalo#9338**
 
 
 ***Scrollable Inventory:**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ffAlzzUwK1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/ffAlzzUwK1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ***Shop Menu:**
-<iframe width="600" height="315" src="https://www.youtube.com/embed/32Ay9NerKCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/32Ay9NerKCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ***Car Spawn GUI:***  
