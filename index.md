@@ -33,14 +33,14 @@ Discord: Ahmalo#9338**
 
 
 **Scrollable Inventory:**
-<iframe width="740" height="315" src="https://www.youtube.com/embed/ffAlzzUwK1I?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="315" src="https://www.youtube.com/embed/ffAlzzUwK1I?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope" allowfullscreen></iframe>
 
 
 **Shop Menu:**
-<iframe width="740" height="315" src="https://www.youtube.com/embed/32Ay9NerKCE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="315" src="https://www.youtube.com/embed/32Ay9NerKCE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope" allowfullscreen></iframe>
 
 **Animated Inventory:**
-<iframe width="740" height="315" src="https://www.youtube.com/embed/73xjKzfr_WA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="315" src="https://www.youtube.com/embed/73xjKzfr_WA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope" allowfullscreen></iframe>
 
 
 ***Car Spawn GUI:***  
