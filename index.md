@@ -32,8 +32,8 @@ Discord: Ahmalo#9338**
 ![Main Menu](https://user-images.githubusercontent.com/98891212/169668543-138c386c-4c27-49df-b528-2ee4955a2023.png) 
 
 
-***Scrollable Inventory:***  **For a example video look [here](https://youtu.be/ffAlzzUwK1I)**    
-![Inventory](https://user-images.githubusercontent.com/98891212/169683598-e775384f-11be-4e19-b8a5-9ed9cb57f7e4.png)  
+***Scrollable Inventory:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffAlzzUwK1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ***Shop Menu:***  **For a example video look [here](https://youtu.be/32Ay9NerKCE)**
