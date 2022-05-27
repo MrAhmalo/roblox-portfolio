@@ -31,21 +31,19 @@ Discord: Ahmalo#9338**
 ***Menu:***  
 ![Main Menu](https://user-images.githubusercontent.com/98891212/169668543-138c386c-4c27-49df-b528-2ee4955a2023.png) 
 
-
-**Scrollable Inventory:**
+**Scrollable Inventory:** 
 <iframe width="740" height="315" src="https://www.youtube.com/embed/ffAlzzUwK1I?controls=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
+![Inventory](https://user-images.githubusercontent.com/98891212/170714435-c211f820-e75a-41fd-9b49-102e706579d0.png) 
 
 **Shop Menu:**
 <iframe width="740" height="315" src="https://www.youtube.com/embed/32Ay9NerKCE?controls=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+![Shop Menu](https://user-images.githubusercontent.com/98891212/170714482-886b8b5e-5aab-45a0-b158-f5010aaee78e.png) 
 
 **Animated Inventory:**
 <iframe width="740" height="315" src="https://www.youtube.com/embed/73xjKzfr_WA?controls=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
-
 ***Car Spawn GUI:***  
-![Car GUI](https://user-images.githubusercontent.com/98891212/169668546-066a76fe-f433-442f-b3a0-f0995d615813.png) 
-
+![Car GUI](https://user-images.githubusercontent.com/98891212/169668546-066a76fe-f433-442f-b3a0-f0995d615813.png)  
 
 ***Mobile compatible too:***  
 ![Car GUI Mobile](https://user-images.githubusercontent.com/98891212/169668549-26b4dc14-73db-4a8a-a260-295dcb556b79.png) 
