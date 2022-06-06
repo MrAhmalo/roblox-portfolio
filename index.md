@@ -2,7 +2,7 @@
 
 ### Roblox Builder and Designer
 
-**Hey, I am MrAhmalo.
+**Hey, I am MrAhmalo.  
 I started learning about Roblox Studio, Scripting, Building and that stuff 2 Years ago.  
 I have lots of experience in Terrain and designing an GUI/UI.**  
 
