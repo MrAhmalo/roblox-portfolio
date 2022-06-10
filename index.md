@@ -67,3 +67,15 @@ Discord: Ahmalo#9338**
 
 ## **Than contact me via Discord**   
 ## **(Tag: Ahmalo#9338)**    
+
+            <script src="js/stickUp.min.js"></script>
+            <script type="text/javascript">
+              //initiating jQuery
+              jQuery(function($) {
+                $(document).ready( function() {
+                  //enabling stickUp on the '.navbar-wrapper' class
+                  $('.navbar-wrapper').stickUp();
+                });
+              });
+
+            </script>
